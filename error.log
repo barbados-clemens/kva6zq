@@ -1,0 +1,21 @@
+
+ NX   Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it. See errors below.
+
+Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+      An error occurred while processing files for the @nx/jest/plugin plugin.
+    - jest.config.ts: invalid type: unit value, expected struct Options
+      Error: invalid type: unit value, expected struct Options
+          at module.exports.__wbindgen_error_new (/home/workspace/adfkdf/node_modules/.pnpm/@swc+core@1.5.29_@swc+helpers@0.5.13/node_modules/@swc/core/wasm.js:552:17)
+          at null.<anonymous> (wasm://wasm/053083e6:1:15562816)
+          at null.<anonymous> (wasm://wasm/053083e6:1:16458264)
+          at null.<anonymous> (wasm://wasm/053083e6:1:16614049)
+          at null.<anonymous> (wasm://wasm/053083e6:1:5423603)
+          at null.<anonymous> (wasm://wasm/053083e6:1:3147300)
+          at null.<anonymous> (wasm://wasm/053083e6:1:12769742)
+          at null.<anonymous> (wasm://wasm/053083e6:1:1487331)
+          at null.<anonymous> (wasm://wasm/053083e6:1:2844031)
+          at null.<anonymous> (wasm://wasm/053083e6:1:1934231)
+
+
+(node:95) ExperimentalWarning: WASI is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
